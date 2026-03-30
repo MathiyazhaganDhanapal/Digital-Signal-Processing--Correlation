@@ -80,4 +80,4 @@ title('Discrete cross correlated waveform (trimmed)')
 
 ## RESULT:
 
-The cross correlation of x1[n] and x2[n] is {4.6,14.45,9.21,9.49,13.83,10.66,30.89,-19.18,0.55,27.05,**-6.5**,-8.7}
+![WhatsApp Image 2026-03-30 at 2 21 22 PM (1)](https://github.com/user-attachments/assets/1c359b6a-edba-4ff6-a7dc-f7433a49037a)
